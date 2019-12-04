@@ -1,0 +1,25 @@
+.dropdown {
+    width: 200px;
+    padding: 10px 15px;
+    background: #fff;
+    border-left: 5px solid grey;
+    border-top: 1px solid #ccc;
+    border-bottom: 1px solid #ccc;
+    border-right: 1px solid #ccc;
+    cursor: pointer;
+    outline: none;
+}
+
+.drop1 {
+    margin-left: 20%;
+}
+
+.drop2 {
+    margin-left: 30%;
+}
+
+
+RUDropdown {
+    width: 10%;
+    height: 10%;
+}
